@@ -1,0 +1,10 @@
+[package]
+name = "webserv"
+version = "0.1.0"
+authors = ["apavanello"]
+
+[dependencies]
+iron = "*"
+mount = "*"
+router = "*"
+staticfile = "*"
